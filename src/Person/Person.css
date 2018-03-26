@@ -1,0 +1,8 @@
+.Person {
+    background-color: grey;
+    font: inherit;
+    font-size: 15px;
+    border: 1px solid blue;
+    padding: 8px;
+    cursor: pointer;
+}
